@@ -1,0 +1,16 @@
+body {
+    font-family: 'Source Sans Pro';
+    letter-spacing: 1px;
+    font-size: 1rem;
+}
+
+h1 {
+    color: black;
+}
+
+.container {
+
+    background-color:white;
+    border: 1px dotted grey;
+    box-shadow: 10px 12px 2px 1px rgba(0, 0, 255, .2);
+}
